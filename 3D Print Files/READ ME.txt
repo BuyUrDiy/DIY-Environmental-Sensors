@@ -1,0 +1,11 @@
+These are a few different 3D files that can be used as examples / guidance for how to mount your DIY loggers.
+
+It can be helpful to have some way of keeping all your components together; making them more secure and easier to get in and out of their waterproof cases. In this folder are a few examples of ways to do this. These were all made very quickly to just demonstrate the idea. But I encourage you to make your own models to fit your individual needs; and just use these as inspiration. That said, they should work with the parts used in the BuyUrDIY project site.
+
+Files: 
+
+Nano w_Screw terminal flat mount  -  This is the most simple way of mounting everything. This is just a flat sheet of plastic with some boxes / wells printed on top. Each component of the Version Nano logger (using the screw terminal) slots into these wells. The wells are purposely oversized to allow for some glue or other adhesive. 
+
+
+Nano Top / Bottom Mount_2 piece  - This is a 2 part print (a top and bottom) that nest together. This accomplishes the same thing as the flat mount, but by stacking the components on top of each other. The bottom mount will hold the Nano (with screw terminal) and the SD reader. The top will hold the DC-DC converter and RTC. Print the 2 pieces and then press them together to get the full set up (you may need a bit of glue to hold the top in place). Again the wells are also oversized to allow for some glue. 
+
