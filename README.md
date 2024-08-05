@@ -6,7 +6,7 @@ This is in congunction with the BuyUrDiy project and website. The files here wor
 
 
 
-In the Arduino folder; are 3 main folders. One for each of the different Arduino projects (Uno, Nano and Pro Mini). The 'Blank' code is the generic logger code. The Blank code is setup so you can modify them to include whatever sensor you are using. The additional files (CO2, conductivity, etc) are examples of code used for different sensors I've build out in the past. Use these to help guide your own sensor builds.  
+In the Arduino folder; are 3 main folders. One for each of the different Arduino projects (Uno, Nano and Pro Mini). The 'Blank' code is the generic logger code. The Blank code is setup so you can modify them to include whatever sensor you are using. The additional files (CO2, conductivity, etc) are examples of code used for different sensors I've built out in the past. Use these to help guide your own sensor builds.  
 
 
 
