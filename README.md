@@ -1,5 +1,5 @@
 # DIY-Environmental-Sensors
-This is a collection of Arduino code and 3d files for use in creating DIY environmental sensor systems. See website here for further details on these projects: __________________
+This is a collection of Arduino code and 3d files for use in creating DIY environmental sensor systems. See website here for further details on these projects: buyurdiysensors.com
 
 
 This is in congunction with the BuyUrDiy project and website. The files here work with the projects outlined on that website. Feel free to modify and make these better; I'm sure there are better and more efficient ways to do everything. Also; these are all for Arduino platfrorms working with the ATmega328P. This means that as long as your RTC is the same, all the code (Version Uno, Nano and Pro Mini) would work interchangable with any of the platforms. Different code is used for the Uno since it is intended to work with a diffrent RTC than the Nano / Pro Mini version. Also different code is used to demonstrate that there are a myraid of ways to achieve the same outcome.
@@ -15,4 +15,4 @@ In the 3D file folder; are a few different 3D files that can be used to 3D print
 
 If looking to cite use the DOI here:  10.5281/zenodo.13152789
 
-If looking for further information copy link to read through the website: _________________
+If looking for further information copy link to read through the website: buyurdiysensors.com
