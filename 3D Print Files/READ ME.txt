@@ -9,3 +9,4 @@ Nano w_Screw terminal flat mount  -  This is the most simple way of mounting eve
 
 Nano Top / Bottom Mount_2 piece  - This is a 2 part print (a top and bottom) that nest together. This accomplishes the same thing as the flat mount, but by stacking the components on top of each other. The bottom mount will hold the Nano (with screw terminal) and the SD reader. The top will hold the DC-DC converter and RTC. Print the 2 pieces and then press them together to get the full set up (you may need a bit of glue to hold the top in place). Again the wells are also oversized to allow for some glue. 
 
+Dipping pole files - These 2 files work together to allow you to print a mount that will hold a standard 1L plastic sample bottle. This mount can then be screwed on to a standard painter's pole. This will give you more reach to sample a body of water. 
